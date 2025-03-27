@@ -1,0 +1,12 @@
+h2{
+    color: rgb(24, 106, 230);
+}
+h1{
+    color: #726bff;
+}
+header {
+    text-align: center;
+    background: url('http://dash.ga.co/assets/jeff-bg.png');
+    background-size: cover;
+    color: white;
+}
